@@ -72,20 +72,20 @@ pip install pandas matplotlib
 ## Results
 
 The analysis reveals trends in subway incidents over time, highlighting months with higher incident counts. The visualizations provide insights into the distribution of incidents across different categories and days of the week. 
+
 Some key insights found:
-- The highest amount of incidents occured in the month of December: 286
-- The lowest amount of incidents occurred in the month of April: 197
-- More incidents occurred in B Division Tracks (1182) than A Division Tracks (1469)
-- There are 4 unlabeled trains or their names have not been identified.
-- Line 6 has the highest number of incidents: 218 while S Rock has the lowest: 2 through the span of 4 years.
-- More accidents occurred during the weekdays (2372) than the weekends (283)
+
+- **Peak Incident Year**: 2024 recorded the highest number of subway incidents (783), while 2020 had the lowest (322).
+- **Monthly Trends**: December saw the most incidents (286), while April had the fewest (197).
+- **Track Division Comparison**: More incidents occurred in B Division Tracks (1,469) compared to A Division Tracks (1,182).
+- **Category Analysis**: The category "Persons on Trackbed/Police/Medical" had the highest number of incidents.
+- **Unidentified Trains**: There are 4 trains with unlabeled or unidentified names.
+- **Line-Specific Incidents**: Line 6 had the most incidents (218), while S Rock had the least (2) over the 4-year span.
+- **Weekday vs. Weekend**: Incidents were more frequent on weekdays (2,372) than on weekends (283).
+  
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
