@@ -1,5 +1,5 @@
 # Subway Incident Analysis
-## Samin Yasar Chowdhury
+## Author: Samin Yasar Chowdhury
 ## Overview
 
 This repository contains a Python notebook for analyzing subway incident data. The analysis focuses on understanding the patterns and trends of major subway incidents over time. The dataset used in this analysis is sourced from the MTA Subway Major Incidents dataset, which includes information about incidents from 2020 onwards.
